@@ -1,0 +1,27 @@
+{
+   "A": {
+      "Placa": "A",
+      "Tipo": "CARRO",
+      "MotoristaN": "Jo\u00e3o"
+   },
+   "B": {
+      "Placa": "B",
+      "Tipo": "MOTO",
+      "MotoristaN": "Jonas"
+   },
+   "C": {
+      "Placa": "C",
+      "Tipo": "CARRO",
+      "MotoristaN": "Alex"
+   },
+   "D": {
+      "Placa": "D",
+      "Tipo": "CARRO",
+      "MotoristaN": "Pedro"
+   },
+   "E": {
+      "Placa": "E",
+      "Tipo": "MOTO",
+      "MotoristaN": "Jos\u00e9"
+   }
+}
