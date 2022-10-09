@@ -64,7 +64,7 @@ def menu_mot():
         elif opcao_menu == 7:
             break
 
-def menu1():
+def menu_controlador():
     while True:
         opcao_menu = menuPrincipal()
         if opcao_menu == 1:
@@ -79,5 +79,5 @@ def menu1():
             break
 
 
-menu1()
+menu_controlador()
 
